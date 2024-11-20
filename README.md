@@ -38,9 +38,17 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pathlib
+- Tensorflow
+- Matplotlib.pyplot
+- Numpy
+- Pandas
+- OS
+- PIL
+- Keras
+- Glob
+- Sklearn
+- Collections
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
