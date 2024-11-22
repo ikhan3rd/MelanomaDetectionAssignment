@@ -29,10 +29,7 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+We can confirm that the Model is slightly overfitted as Training Accuracy is higher (Max = ) then Validation Accuracy (Max = ) even after Rectifying the Class Imbalance and performing Data augumentation on the dataset, however that Max accuracy of Training and validation is above 70% this module can be used to predict detect melanoma under cnn model.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
